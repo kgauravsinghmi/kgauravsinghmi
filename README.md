@@ -2,4 +2,3 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming language such as java, c , c++ and many more
 - 💞️ I’m looking to collaborate on android project
-- 📫 How to reach me [Mail me at - kgauravsighmi@gmail.com]
